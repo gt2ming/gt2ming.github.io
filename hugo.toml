@@ -1,0 +1,25 @@
+# Hugo 站点配置
+baseURL = "https://gt2ming.github.io/"
+languageCode = "zh-cn"
+title = "lsm 的博客"
+theme = "minimal"
+
+# 构建默认
+enableRobotsTXT = true
+summaryLength = 60
+
+# 站点参数
+[params]
+  author = "lsm"
+  description = "记录写作与生活的个人博客."
+
+# 顶部导航
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "关于"
+  url = "/about/"
+  weight = 2

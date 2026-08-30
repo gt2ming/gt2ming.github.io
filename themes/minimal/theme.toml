@@ -1,0 +1,9 @@
+name = "minimal"
+license = "MIT"
+licenselink = "https://mit-license.org"
+description = "一个简洁的极简博客主题"
+homepage = "https://gt2ming.github.io/"
+min_version = "0.100.0"
+
+[author]
+  name = "lsm"
